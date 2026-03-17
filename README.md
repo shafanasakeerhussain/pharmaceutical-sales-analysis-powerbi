@@ -43,7 +43,7 @@ Performed end-to-end analysis of pharmaceutical sales data in India (2015–2024
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashbord.png)
+![Dashboard](Sales_dashbord.png)
 
 ---
 
